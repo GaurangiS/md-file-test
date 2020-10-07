@@ -80,7 +80,7 @@
    1. [Department of Personnel and Training](http://dopt.gov.in)
 1. [Ministry of Petroleum and Natural Gas](http://petroleum.nic.in)
 1. [Ministry of Power](https://powermin.nic.in)
-1. [Ministry of Railways](http://www.in)dianrailways.gov.in)
+1. [Ministry of Railways](http://www.indianrailways.gov.in)
 1. [Ministry of Road Transport and Highways](http://morth.gov.in)
 1. [Ministry of Rural Development](https://rural.nic.in)
    1. [Department of Land Resources](http://dolr.nic.in)
