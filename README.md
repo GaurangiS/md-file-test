@@ -103,5 +103,5 @@
 1. [Ministry of Youth Affairs and Sports](http://yas.gov.in)
    1. [Department of Sports](http://yas.gov.in/sports)
    1. [Department of Youth Affairs](https://yas.gov.in/youth)
-1. [Department of Atomic Energy](http://www.dae.nic.in)
-1. [Department of Space](http://www.dos.gov.in)
+* [Department of Atomic Energy](http://www.dae.nic.in)
+* [Department of Space](http://www.dos.gov.in)
