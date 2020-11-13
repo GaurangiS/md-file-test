@@ -153,7 +153,6 @@
 1. [Ministry of Skill Development and Entrepreneurship](http://www.skilldevelopment.gov.in)
 
 1. [Ministry of Social Justice and Empowerment](http://socialjustice.gov.in)
-
    1. [Department of Empowerment of Persons with Disabilities](http://www.disabilityaffairs.gov.in)
    1. [Department of Social Justice and Empowerment](#)
 
@@ -170,10 +169,8 @@
 1. [Ministry of Women and Child Development](http://wcd.nic.in)
 
 1. [Ministry of Youth Affairs and Sports](http://yas.gov.in)
-
    1. [Department of Sports](http://yas.gov.in/sports)
    1. [Department of Youth Affairs](https://yas.gov.in/youth)
 
-* [Department of Atomic Energy](http://www.dae.nic.in)
-
-* [Department of Space](http://www.dos.gov.in)
+- [Department of Atomic Energy](http://www.dae.nic.in)
+- [Department of Space](http://www.dos.gov.in)
